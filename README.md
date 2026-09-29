@@ -223,7 +223,7 @@ For the Docker-based setup, you do not need to manually install PostgreSQL, Pyth
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/AmanPanchal3110/inventary-system.git
 cd inventory-system
 ```
 
