@@ -8,10 +8,9 @@ The system allows businesses to manage products, customers, and orders while pro
 
 | Service | URL |
 |---|---|
-| **Frontend** | https://inventory-system-orpin-eight.vercel.app |
-| **Backend API** | https://inventory-system-56zd.onrender.com |
-| **Swagger API Docs** | https://inventory-system-56zd.onrender.com/docs |
-| **ReDoc API Docs** | https://inventory-system-56zd.onrender.com/redoc |
+| **Frontend** | https://inventary-system-iota.vercel.app |
+| **Backend API** | https://inventary-system-yjj0.onrender.com |
+| **Swagger API Docs** | https://inventary-system-yjj0.onrender.com/docs |
 
 > The demo is preloaded with sample products and customers for demonstration purposes.
 
